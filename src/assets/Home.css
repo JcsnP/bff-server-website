@@ -1,0 +1,18 @@
+header {
+    background-image: url("../images/wallpaper.png");
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+}
+
+.title,
+.sub-title {
+    font-weight: 900 !important;
+}
+
+.bg-black {
+    background-color: #2B1E25;
+    color: #FFF;
+    padding-top: 3em;
+    padding-bottom: 3em;
+}

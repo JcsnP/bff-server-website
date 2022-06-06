@@ -1,0 +1,18 @@
+section {
+    background-color: #2B1E25;
+    color: #FFF;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.subtitle {
+    color: #7f838c !important;
+}
+
+h5 {
+    margin: 0 !important;
+}
+
+.card {
+    margin-bottom: 10px;
+}
